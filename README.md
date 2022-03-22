@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @william-fullstack AKA William 
-- 👀 I’m currently building websites to get me throught college
-- 🌱 I’m currently learning data strutures. wish me luck
+-  Hi, I’m @william-fullstack AKA William 
+-  I’m currently building websites to get me throught college
+-  I’m currently learning data strutures. wish me luck
 
 
 <!---
